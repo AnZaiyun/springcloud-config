@@ -1,6 +1,6 @@
 spring:
   application:
-    name: cloud-config-center-test
+    name: cloud-config-center
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
     driver-class-name: oracle.jdbc.OracleDriver
